@@ -1,0 +1,105 @@
+
+body{
+  background-color: powderblue;
+  margin: 0;
+  text-align: center;
+}
+#mm{
+  /* font-family: sans-serif,cursive; */
+  /* font-family: 'Big Shoulders Stencil Display', cursive; */
+  font-family: 'Sacramento', cursive;
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+.hrlll{
+  color:orange;
+  height:1px;
+}
+#divl{
+  font-size: 15px;
+  color:red;
+}
+#ccid{
+  color:red;
+}
+#hkid{
+  color:red;
+}
+#hrll{
+  color:orange;
+}
+#skid{
+  color:purple;
+}
+#scid{
+  color:lime;
+}
+p{
+  /* font-family: 'Big Shoulders Stencil Display', sans-serif; */
+  font-family: fantasy;
+}
+.cloud2{
+  position: absolute;
+}
+.cloud1{
+  position: relative;
+  margin-left: 350px;
+}
+.prof-pic{
+  border-radius: 70%;
+}
+/*
+.top-container{
+
+  following is box style css:
+  margin: 20px;
+  border: solid 5px;
+  border-style: dotted;
+  padding-left: 20px;
+  padding-bottom: 51px;
+  */
+  /*
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  padding: 20px; */
+/*}
+/*
+.middle-container{
+  background-color: red;
+  margin-left: 260px;
+  border: solid 20px;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+  background-color: blue;
+  margin-left: 500px;
+  border: solid 10px;
+  width: 200px;
+  height: 200px;
+}
+.c1{
+  display: inline;
+  background-color: red;
+  width: 200px;  /*not valid as in inline we can't change height,width*/
+/* }
+.c2{
+  display: block;
+  background-color: red;
+  height: 70px;      /*valid*/
+  /* width: 20px;      /*valid*/
+/* }
+.c3{
+  display:inline-block;
+  background-color: red;
+  height: 70px;      /*valid*/
+  /* width: 210px;      /*valid*/
+/* }
+.c4{
+  display: block;
+  width: 50px;
+  height: 35px;
+  /*display:none;*/    /*it will disappear it*/
+  /* visibility: hidden; /*it will disappear text but its occupied space will be there*/
+/* } */
